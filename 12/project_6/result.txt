@@ -1,0 +1,10 @@
+Enter maximum size of queue1: 10
+Enter maximum size of queue2: 10
+Enter the number of simulation hours: 1000
+Enter the average number of customers per hour: 49
+customers accepted: 49029
+ customers served: 49028
+ turnaways: 0
+average queue size: 0.73
+average wait time: 0.89 minutes
+
